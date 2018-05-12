@@ -21,6 +21,8 @@ creator:
     - http://en.wikipedia.org/wiki/Lu%C3%ADs_da_Silva_Mouzinho_de_Albuquerque
     - http://pt.wikipedia.org/wiki/Lu%C3%ADs_da_Silva_Mouzinho_de_Albuquerque
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21786#Ruy-o-escudeiro--Conto
 gutenberg_bookshelf:
 - PT Poesia
 - PT Contos
