@@ -1,0 +1,46 @@
+_repo: Ruy-o-escudeiro--Conto_21786
+_version: 0.1.0
+alternative_title: 'Rui o escudeiro: Conto'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mousinho de Albuquerque, Luís da Silva
+    aliases:
+    - Albuquerque, Luís da Silva Mousinho de
+    - Albuquerque, Luis da Silva Mousinho de
+    - Albuquerque, Luiz da Silva Mousinho de
+    - Albuquerque, Luís da Silva Mouzinho de
+    - Albuquerque, Luiz da Silva Mouzinho de
+    birthdate: 1792
+    deathdate: 1846
+    gutenberg_agent_id: '24888'
+    url: http://www.gutenberg.org/2009/agents/24888
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Lu%C3%ADs_da_Silva_Mouzinho_de_Albuquerque
+    - http://pt.wikipedia.org/wiki/Lu%C3%ADs_da_Silva_Mouzinho_de_Albuquerque
+description: ''
+gutenberg_bookshelf:
+- PT Poesia
+- PT Contos
+gutenberg_issued: '2007-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21786'
+  lccn: '35032863'
+language: pt
+language_note: This ebook uses 19th century spelling
+production_note: "Produced by Pedro Saborano. Para comentários à transcrição\r\nvisite\
+  \ http://pt-scriba.blogspot.com/ (This book was\r\nproduced from scanned images\
+  \ of public domain material\r\nfrom Google Book Search)"
+publication_note: "Lisboa:\r\nTyp. da Sociedade Propagadora dos Conhecimentos Uteis\r\
+  \nLargo do Pelouriho, N.º 24\r\n1844"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Poetry'
+title: 'Ruy o escudeiro: Conto'
+url: http://www.gutenberg.org/ebooks/21786
